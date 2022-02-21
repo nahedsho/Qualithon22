@@ -30,3 +30,9 @@ this function will connect to ws using websocket and it will send the token and 
 
 teardown_method()
 this function will terminate the browser
+
+
+
+another file was included 
+AnimationReplay.gif 
+is the recorded automation replay for the whole proccess 
